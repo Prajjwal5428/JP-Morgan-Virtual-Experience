@@ -1,2 +1,2 @@
-# JPMorgan-chase-Virtual-Internship-Tour-2020
-This repo contains task deliverables info along with reports of virtual internship tour at JPMorgan Chase.
+# JPMorgan-chase-Virtual-Experience
+This repo contains task deliverables info along with reports of virtual internship Experience at JPMorgan Chase.
